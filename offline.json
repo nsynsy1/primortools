@@ -4,7 +4,7 @@
 		"info": "Технические неполадки"
 	},
 	"rodina_pc": {
-		"status": true,
+		"status": false,
 		"info": "Егор Залесков и Никита Штиберт - крутые разработчики!"
 	},
 	"arizona_mobile": {
